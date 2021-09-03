@@ -51,7 +51,7 @@ body {
 
 /* Setting the background image first */
 .header-bg-image {
-  background-image: url("./images/desktop/image-header.jpg");
+  background-image: url("../images/desktop/image-header.jpg");
   min-width: 100%;
   min-height: 70vh;
   background-position: bottom;
